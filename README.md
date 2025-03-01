@@ -93,8 +93,8 @@
 ├── README.md                # Project documentation
 └── requirements.txt         # Python dependencies
 ```
-## Autogen AI Agentic workflow
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/e12f9ae1-154f-4064-ad70-83c97f964ecb" />
+## 🤖 Autogen AI Agentic workflow
+<img width="850" alt="agentflow" src="https://github.com/user-attachments/assets/e12f9ae1-154f-4064-ad70-83c97f964ecb" />
 
 ## 🔑 API Keys
 
