@@ -107,6 +107,7 @@ This application requires the following API keys:
 3. **Azure Logic Apps** (optional) - For email delivery
    - Configure through Azure portal: https://portal.azure.com
 
+
 ## 💌 Email Reports
 
 The system can send detailed stock analysis reports via email using Azure Logic Apps:
@@ -114,6 +115,9 @@ The system can send detailed stock analysis reports via email using Azure Logic 
 1. Create an HTTP-triggered Logic App in Azure
 2. Add the Logic App URL to your `.env` file
 3. Use the "Send Email" option in the application UI
+
+Sample LogicApps
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/4a57258a-6696-4b58-9f90-93cde7f439fd" />
 
 ## 🤝 Contributing
 
