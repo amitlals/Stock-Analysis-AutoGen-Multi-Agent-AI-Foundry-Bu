@@ -16,6 +16,7 @@
 - 🧠 **AI-Powered Recommendations** - Get BUY/HOLD/SELL guidance based on technical indicators
 - 📧 **Email Reports** - Send beautifully formatted HTML analysis reports via Azure Logic Apps
 - 🤖 **Multi-Agent Architecture** - Leverages specialized AI agents for different analytical tasks
+<img width="971" alt="image" src="https://github.com/user-attachments/assets/2a1e470d-2cd1-4473-ac54-8090fad89022" />
 
 ## 🛠️ Installation
 
@@ -129,6 +130,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
+Alpha Vantage, yfinance API providers
 
 - [AutoGen](https://github.com/microsoft/autogen) - Multi-agent framework
 - [Gradio](https://gradio.app/) - UI framework
