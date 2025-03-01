@@ -1,4 +1,4 @@
-# 📈 Stock Analysis Multi-Agent System
+# 📈 Stock Analysis Multi-Agent System - Autogen v0.4 | Azure AI agent service | Azure AI Foundry 
 
 > 🤖 AI-powered stock analysis application built with Python, AutoGen multi-agent architecture, and Gradio UI
 
@@ -7,7 +7,7 @@
 ## ✨ Features
 
 - 🔐 **Secure Login** - Authentication system protects application access
-- 🔄 **Dual API Sources** - Alpha Vantage API with automatic failover to Yahoo Finance
+- 🔄 **Dual API Sources** - Alpha Vantage API with automatic failover to Yahoo Finance (plan B)
 - 📊 **Technical Analysis** - Comprehensive metrics including:
   - Moving averages (50-day, 200-day)
   - Price trends and momentum indicators
