@@ -1,4 +1,4 @@
-# 📈 Stock Analysis Multi-Agent System | Build using Autogen v0.4, Azure AI agent Services, Azure AI Foundry, AOAI
+# 📈 Stock Analysis Multi-Agent System
 
 > 🤖 AI-powered stock analysis application built with Python, AutoGen multi-agent architecture, and Gradio UI
 
@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Stock-Analysis-AutoGen-Multi-Agent-Azure.git
+   git clone https://github.com/yourusername/Stock-Analysis-AutoGen-Multi-Agent.git
    cd Stock-Analysis-AutoGen-Multi-Agent
    ```
 
@@ -106,7 +106,7 @@ This application requires the following API keys:
 3. **Azure Logic Apps** (optional) - For email delivery
    - Configure through Azure portal: https://portal.azure.com
 
-## 💌 Email Reports with LogicApps 
+## 💌 Email Reports
 
 The system can send detailed stock analysis reports via email using Azure Logic Apps:
 
